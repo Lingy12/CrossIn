@@ -1,0 +1,5 @@
+{
+    "description": "Template used by default llama",
+    "prompt_input": "{instruction}\n{input}\n{output_lang}",
+    "prompt_no_input": "{instruction}\n{output_lang}"
+}

@@ -1,0 +1,5 @@
+{
+    "description": "Template for cl boost.",
+    "prompt_input": "Below is an instruction that describes a task in one or more languages, paired with an input in one or more language that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n {output_lang}",
+    "prompt_no_input": "Below is an instruction that describes a task in one or more languages. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Response:\n {output_lang}"
+}
