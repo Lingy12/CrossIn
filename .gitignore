@@ -125,7 +125,6 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-*.txt
 datasets/
 output_dir/
 *.jsonl
